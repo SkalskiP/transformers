@@ -1,9 +1,8 @@
 <h1 align="center">transformers course</h1>
 
 <p align="center">
-    <img width="400" src="https://github.com/SkalskiP/transformers/assets/26109316/8a11b3b8-7c02-49ce-af29-320d96885296" alt="make sense logo">
+    <img width="400" src="https://github.com/SkalskiP/transformers/assets/26109316/36974a57-27f7-415e-aae3-5fab4e547bfd" alt="make sense logo">
 </p>
-
 
 ## 👋 hello
 
